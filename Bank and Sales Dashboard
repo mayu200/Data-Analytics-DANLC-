@@ -1,0 +1,37 @@
+Power BI Analysis and Dashboard Project
+This repository contains the Power BI project aimed at analyzing bank customer data and sales data. The project involves importing and transforming data from multiple workbooks, creating relationships among them, and generating insightful visualizations and dashboards.
+
+Part 1: Bank Customer Data Analysis
+Data Import and Transformation:
+
+Imported and transformed data from three workbooks: Bank Details 1.1, Bank Details 1.2, and Bank Details 1.3.
+Uploaded Bank Details 1.2 into Google Drive.
+Data Analysis:
+
+Created relationships among the workbooks to provide a comprehensive view of customer data.
+Visualizations:
+
+Region-wise number of customers.
+Region-wise number of male and female customers.
+Customer presence worldwide.
+Region-wise bank balance distribution.
+Monthly balance availability trends by region.
+Part 2: Sales Data Analysis
+Data Import and Transformation:
+
+Imported and transformed data from the Sales Data file.
+Data Analysis:
+
+Calculated overall profit percentage and commission for each sales representative.
+Analyzed total number of work shifts (monthly and daily trends) for each sales representative.
+Visualizations:
+
+Overall profit percentage and commission.
+Sales representative-wise work shift trends.
+Action Items:
+Identified areas for further improvement in business product sales.
+Analyzed the most common work shift for sales representatives.
+Evaluated additional impacts on business sales trends.
+Dashboards:
+Created comprehensive dashboards for both bank customer data and sales data to provide clear insights and support decision-making processes.
+Screenshots and detailed documentation of each analysis step and the resulting dashboards are included in this repository.
